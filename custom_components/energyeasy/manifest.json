@@ -1,0 +1,11 @@
+{
+  "domain": "easyenergy",
+  "name": "Easyenergy",
+  "documentation": "https://github.com/Truxnell/HomeAssistant_EnergyEasy",
+  "issue_tracker": "https://github.com/Truxnell/HomeAssistant_EnergyEasy/issues",
+  "dependencies": [],
+  "version": "1.0.0",
+  "codeowners": ["@truxnell"],
+  "requirements": [],
+  "iot_class": "cloud_polling"
+}
